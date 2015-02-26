@@ -1,14 +1,11 @@
 {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/pakrchen/caravel"
-        }
-    ],
+  "name": "pakrchen/caravel-framework",
 
-    "require": {
+  "license": "MIT",
 
-        "pakrchen/caravel": "dev-master"
+  "require": {
 
-    }
+    "pakrchen/caravel": "dev-master"
+
+  }
 }
