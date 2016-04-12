@@ -1,6 +1,5 @@
 {
   "name": "pakrchen/caravel-mvc",
-  "replace": {"pakrchen/caravel-demo": "dev-master"},
 
   "license": "MIT",
 
