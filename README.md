@@ -1,2 +1,2 @@
-# caravel-demo
-composer create-project pakrchen/caravel-demo . dev-master
+# caravel-mvc
+composer create-project pakrchen/caravel-mvc . dev-master
