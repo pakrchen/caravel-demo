@@ -1,6 +1,6 @@
 {
   "name": "pakrchen/caravel-mvc",
-  "replace": {"old/name": "self.version"}
+  "replace": {"old/name": "dev-master"},
 
   "license": "MIT",
 
